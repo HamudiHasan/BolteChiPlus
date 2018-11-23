@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BolteChi+</string>
+
+    <array name="arr_language">
+        <item>English</item>
+        <item>Bangla</item>
+    </array>
 </resources>
